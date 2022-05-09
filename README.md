@@ -10,7 +10,7 @@ This project was built using these technologies.
 - CSS3
 - VsCode
 - Javascript
-- <a href="https://dexie.org/" target="_blank">Dexiejs Official Documetation</a>Dexiejs Official Documetation
+- <a href="https://dexie.org/" target="_blank">Dexiejs Official Documetation</a>
 - <a href="https://developers.google.com/web/tools/workbox/guides/get-started" target="_blank">Google Workbox</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank">IndexedDB</a>
 
