@@ -1,6 +1,5 @@
 # ToDoApp-PWA
-A To-Do App made with HTML, CSS, JS, Workbox, Dexiejs as a PWA
-
+A <a href="https://abdulkareemoj.github.io/ToDoApp-PWA/" target="_blank">To-Do App made with HTML, CSS, JS, Workbox, Dexiejs as a PWA</a>
 
 ## Built With
 
